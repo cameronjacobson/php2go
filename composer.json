@@ -1,0 +1,8 @@
+{
+	"name":"php2go/php2go",
+	"autoload": {
+		"psr-0": {
+			"php2go": "src/"
+		}
+	}
+}
